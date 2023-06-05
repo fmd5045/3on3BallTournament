@@ -1,0 +1,32 @@
+html {
+padding: 0;
+margin: 0;
+border: 0;
+background-color: black;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3%;
+}
+/*img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 5%;
+    height: auto;
+    width: auto;
+}*/
+
+h1{
+    border-radius: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(218, 215, 215);
+    text-align: center;
+    font-size: xxx-large;
+}
